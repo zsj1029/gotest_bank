@@ -1,4 +1,4 @@
-package core
+package gotest_bank
 
 import "fmt"
 
